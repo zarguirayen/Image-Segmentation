@@ -1,0 +1,23 @@
+# Fichiers de compilation CMake
+build/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Fichiers de compilation C++
+*.o
+*.out
+*.exe
+*.dll
+*.so
+
+# Fichiers des IDEs
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Fichiers système
+.DS_Store
+Thumbs.db
